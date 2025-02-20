@@ -2,7 +2,7 @@ Here’s the complete README.md content formatted for GitHub:
 
 # The Not-So-Simple PHP Command Shell
 
-![PHP Command Shell](images/php-command-shell.png)
+![PHP Command Shell](https://r00t-shell.com/wp-content/uploads/2025/02/nsscmdshell.png)
 
 ## Description
 
@@ -30,7 +30,7 @@ Before using The Not-So-Simple PHP Command Shell, ensure you have the following:
 1. **Download the Tool**: Clone or download the repository from GitHub.
 
    ```bash
-   git clone https://github.com/kaotickj/The-Not-So-Simple-PHP-Command-Shell.git
+   git clone https://github.com/RootShelll/The-Not-So-Simple-PHP-Command-Shell-A-Comprehensive-Guide.git
 
 
 Configure the Tool: Open the nsscmdshell.php file and modify the following variables to match your attack machine's IP address and port:
